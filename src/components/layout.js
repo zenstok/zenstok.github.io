@@ -9,8 +9,8 @@ import * as React from "react"
 import PropTypes from "prop-types"
 import { useStaticQuery, graphql } from "gatsby"
 
-import Header from "./header"
 import "./layout.css"
+// import GlobalStyle from "./globalStyles"
 
 const Layout = ({ children }) => {
   const data = useStaticQuery(graphql`
@@ -24,9 +24,10 @@ const Layout = ({ children }) => {
   `)
 
   return (
-    <div className="background">
+    <>
+      {/*<GlobalStyle />*/}
       {children}
-    </div>
+    </>
   )
 }
 
