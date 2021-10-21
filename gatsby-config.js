@@ -3,7 +3,7 @@ module.exports = {
     title: `Restaurant Apaculco`,
     description: `Restaurant Acapulco. In curand vom fi din nou impreuna! Pizza; Preparate cu specific romanesc﻿; Cocktail; Atmosfera relaxata; Zambete﻿; Amintiri de neuitat.`,
     author: `@zenstok`,
-    siteUrl: `https://restaurantacapulco.ro`,
+    siteUrl: `https://zenstok.github.io`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
