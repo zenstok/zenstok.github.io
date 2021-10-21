@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_default=self.webpackChunkgatsby_starter_default||[]).push([[391],{6199:function(t,e,n){n.r(e),n.d(e,{default:function(){return a}});var s=n(7294),u=n(9).default.div.withConfig({componentId:"sc-kgcs48-0"})(["display:flex;align-items:center;justify-content:center;"]);function a(){return s.createElement(u,null,"test")}}}]);
+//# sourceMappingURL=component---src-pages-demo-js-c84e9ff997d058e4e1ff.js.map
